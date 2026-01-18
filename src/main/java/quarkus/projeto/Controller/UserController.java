@@ -67,7 +67,6 @@ public class UserController {
   }
 
   // DELETAR USUARIO
-  // TA DANDO ERRO AQUI, SEI LA, 405
   @DELETE
   @Path("/delete/{id}")
   @Transactional
