@@ -45,4 +45,4 @@ nb-configuration.xml
 .certs/
 
 #application.properties - meio obvio
-application.properties
+~/springEquarkusProjects/peopleapi-quarkus/src/main/resources/application.properties 
